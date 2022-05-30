@@ -12,6 +12,9 @@ Initial Security()
 feature1 securitypatch()
 {
 //sample SP1
+feature2 securitypatch()
+{
+//sample SP2
 }
 
 
